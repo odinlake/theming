@@ -5047,12 +5047,24 @@ the snake instead.
 Directed by: Alfred Hitchcock. Story by: Roald Dahl, Casey Robinson.
 
 :: Ratings
+5 <mikael>
 
 :: Choice Themes
+human vs. venomous animal [Harry Pope has been stuck in bed for hours because there is a venomous snake on his stomach.]
+what if I couldn't move because of a poisonous animal [Harry Pope has been stuck in bed for hours because there is a venomous snake on his stomach.] {MO: perhaps we marked this for deletion in the singletons..?}
 
 :: Major Themes
+coping with a problematic person [One point of the story was that Harry was frustrated by having to rely on Timber who was variously flippant and dumb, and would not treat Harry's mortal peril with the gravitas it warranted.]
+friendship [Harry and Timber were supposedly friends but it turns out to be more complicated.] {MO: possibly false friend territory}
+false friend [Harry and Timber went through the motions of friendship but by the conclusion of the story we understand that neither would have terribly minded seeing the other dead. At any rate they derived much satisfaction from each other's distress.]
+the medical professions [Dr. ?? appeared to administer a snake serum, and to sedate the slithering reptile with chloroform.]
 
 :: Minor Themes
+theft [AHP feigned to have a rattlesnake in his pocket to deter pickpockets.]
+alcoholism [We heard that Harry had turned to the bottle at some point.]
+
+:: Related Stories
+talesoftheunexpected2x05
 
 
 ahp4x02
@@ -5075,12 +5087,22 @@ speak up, having promised not to.
 Directed by: Robert Stevens. Story by: Sidney Carroll.
 
 :: Ratings
+3 <mikael>
 
 :: Choice Themes
 
 :: Major Themes
+father and son [Mr. T and Johnny.]
+mother and son [Mrs. T and Johnny.]
+husband and wife [Mrs. and Mr. Templeton.]
+dealing with children [The Templetons struggled to keep their unruly son to behave.]
+personal ethical dilemma [Johnnyhad to choose between keeping his promise, and speaking up about a man who was freezing to death outside.] {MO: maybe desire vs. conscience}
+man vs. nature [Kilmer related a story about the worst thing there was: Freezing in the cold. Underlining this story within the story, Johnny saw someone outside the window apparently freezing to death.]
+what if I told the truth and nobody would believe me [Because of his habit of make belief, nobody would believe Johnny when he told about the freezing man outside the window.]
 
 :: Minor Themes
+murder [AH was subjected to attempted murder by a train company director who took issue with something AH had said about the trains.]
+theft [One of the waiters stole the silver dollar that Johnny dropped.]
 
 
 ahp4x03
