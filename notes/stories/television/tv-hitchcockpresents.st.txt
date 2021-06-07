@@ -5050,18 +5050,19 @@ Directed by: Alfred Hitchcock. Story by: Roald Dahl, Casey Robinson.
 5 <mikael>
 
 :: Choice Themes
-human vs. venomous animal [Harry Pope has been stuck in bed for hours because there is a venomous snake on his stomach.]
-what if I couldn't move because of a poisonous animal [Harry Pope has been stuck in bed for hours because there is a venomous snake on his stomach.] {MO: perhaps we marked this for deletion in the singletons..?}
+human vs. venomous animal [Harry Pope had been stuck in bed for hours because there is a venomous snake on his stomach.]
+what if I couldn't move because of a poisonous animal [Harry Pope has been stuck in bed for hours because there is a venomous snake on his stomach.] {MO: perhaps we marked this for deletion in the singletons..? It's replaced in by "human vs. venomous animal".}
 
 :: Major Themes
 coping with a problematic person [One point of the story was that Harry was frustrated by having to rely on Timber who was variously flippant and dumb, and would not treat Harry's mortal peril with the gravitas it warranted.]
-friendship [Harry and Timber were supposedly friends but it turns out to be more complicated.] {MO: possibly false friend territory}
+friendship [Harry and Timber were supposedly friends but it turns out to be more complicated.] {MO: possibly false friend territory. PS: I didn't get if Harry was feeling vengeful over how lightly Timber treated the dire situation or what.}
 false friend [Harry and Timber went through the motions of friendship but by the conclusion of the story we understand that neither would have terribly minded seeing the other dead. At any rate they derived much satisfaction from each other's distress.]
-the medical professions [Dr. ?? appeared to administer a snake serum, and to sedate the slithering reptile with chloroform.]
+the medical professions [Dr. Granderbay appeared to administer a snake serum, and to sedate the slithering reptile with chloroform.] {PS: Sounds minor from the comment.}
+remaining calm in the face of danger [] {For discussion about Timber not panicking about the situation}
 
 :: Minor Themes
-theft [AHP feigned to have a rattlesnake in his pocket to deter pickpockets.]
-alcoholism [We heard that Harry had turned to the bottle at some point.]
+theft [In the intro, Alfred Hitchcock feigned to have a rattlesnake in his pocket to deter pickpockets.]
+alcohol abuse [We heard that Harry had turned to the bottle at some point.]
 
 :: Related Stories
 talesoftheunexpected2x05
