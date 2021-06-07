@@ -264,3 +264,43 @@ brother and brother [In a dramatic plot twist, the evil sorcerer Golbez was reve
 marriage ceremony [A wedding was held for Cecil and Rosa at the very end of the game.]
 
 
+videogame: Final Fantasy V (1992)
+=================================
+
+:: Title
+Final Fantasy V
+
+:: Date
+1992-12-06
+
+:: Description
+The game begins as a wanderer named Bartz investigates a fallen meteor.
+There, he encounters several characters, one of whom reveals the danger
+facing the four Crystals that control the world's elements. These Crystals
+act as a seal on Exdeath, an evil sorcerer. Bartz and his party must keep the
+Crystals from being exploited by Exdeath's influence and prevent his
+resurgence.
+
+:: Authors
+Square
+
+:: Variation
+SNES
+
+:: Ratings
+? <paul>
+
+:: Genre
+fantasy
+
+:: References
+https://en.wikipedia.org/wiki/Final_Fantasy_V
+
+:: Choice Themes
+
+:: Major Themes
+
+:: Minor Themes
+
+
+
