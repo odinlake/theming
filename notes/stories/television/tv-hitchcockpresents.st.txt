@@ -5048,6 +5048,7 @@ Directed by: Alfred Hitchcock. Story by: Roald Dahl, Casey Robinson.
 
 :: Ratings
 5 <mikael>
+4 <paul>
 
 :: Choice Themes
 human vs. venomous animal [Harry Pope had been stuck in bed for hours because there is a venomous snake on his stomach.]
@@ -5089,21 +5090,25 @@ Directed by: Robert Stevens. Story by: Sidney Carroll.
 
 :: Ratings
 3 <mikael>
+3 <paul>
 
 :: Choice Themes
 
 :: Major Themes
-father and son [Mr. T and Johnny.]
-mother and son [Mrs. T and Johnny.]
-husband and wife [Mrs. and Mr. Templeton.]
-dealing with children [The Templetons struggled to keep their unruly son to behave.]
-personal ethical dilemma [Johnnyhad to choose between keeping his promise, and speaking up about a man who was freezing to death outside.] {MO: maybe desire vs. conscience}
-man vs. nature [Kilmer related a story about the worst thing there was: Freezing in the cold. Underlining this story within the story, Johnny saw someone outside the window apparently freezing to death.]
+father and son [Larry Templeton and his unruly young son Johnny.]
+mother and son [Mary Templeton and her unruly young son Johnny.]
+husband and wife [Larry and Mary Templeton quarreled over how to best discipline their young son, Johnny.]
+dealing with children [The Templetons struggled to make their unruly son to behave aboard the train.]
+personal ethical dilemma [Johnny had to choose between keeping his promise, and speaking up about a man who was freezing to death outside.] {MO: maybe desire vs. conscience}
+keeping a promise when circumstances have changed [Johnny had to choose between keeping his promise, and speaking up about a man who was freezing to death outside.]
+man vs. nature [Mr. Kilmer related a story about the worst thing there was: Freezing in the cold. Underlining this story within the story, Johnny saw someone outside the window apparently freezing to death.]
 what if I told the truth and nobody would believe me [Because of his habit of make belief, nobody would believe Johnny when he told about the freezing man outside the window.]
+discipline of a child [Larry's rewarding Johnny for doing things he should be expected to do was contrasted with Mary's no-nonsense approach to disciplining the boy.]
 
 :: Minor Themes
-murder [AH was subjected to attempted murder by a train company director who took issue with something AH had said about the trains.]
-theft [One of the waiters stole the silver dollar that Johnny dropped.]
+murder [In his monologue, Alfred Hitchcock was subjected to attempted murder by a train company director who took issue with something Alfred had said about the trains.]
+theft [The train waiter stole the silver dollar that Johnny dropped.]
+human childhood [Little Johnny was running around on the train playing the make-believe children's game "Cowboys and Indians".]
 
 
 ahp4x03
