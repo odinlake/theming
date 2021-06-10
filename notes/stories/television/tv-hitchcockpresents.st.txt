@@ -5131,6 +5131,7 @@ Directed by: Arthur Hiller. Story by: Robert Arthur, Bernard C. Schoenfeld.
 
 :: Ratings
 3 <paul>
+3 <mikael>
 
 :: Choice Themes
 the boy who cried wolf moral [The story culminates with Pop Henderson not taking seriously a paralyzed Mr. Bradley's moans for help on account that Mr. Bradley had previously pretended to be a corpse that had come to life.]
@@ -5148,6 +5149,10 @@ law enforcement [A police captain came to investigate a report that a morgue-sto
 boyfriend and girlfriend [Mike punched out Mr. Bradley for having played a practical joke on Mike's girl, Millie.]
 crime of passion [Mike lost his temper and physically assaulted the insufferable practical joker Mr. Bradley after Mr. Bradley put pepper in the drink of Mike's girl, Millie.]
 breaking the law to cover up another crime [Mike and the bartender covered up what they presumed to be a case of manslaughter by dumping the seemingly dead body in a morgue freezer.]
+celebrity worship [AH jested about how his supposed musician brother had perished as crazed fans "snipped" of first his hair, and then more of him.]
+coping with a loved one being gravely ill [Pop spoke repeatedly about how his wife was ill and had had numerous operations.]
+murder [Mike thought he had killed Bradley.]
+nepotism [We herd a snide remark about how the police Captain was a second cousin to the Mayor. The Captain protested that he was in fact a first cousin.]
 
 
 ahp4x04
