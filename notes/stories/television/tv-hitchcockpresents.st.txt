@@ -5130,12 +5130,24 @@ puts him inside the freezer.
 Directed by: Arthur Hiller. Story by: Robert Arthur, Bernard C. Schoenfeld.
 
 :: Ratings
+3 <paul>
 
 :: Choice Themes
+the boy who cried wolf moral [The story culminates with Pop Henderson not taking seriously a paralyzed Mr. Bradley's moans for help on account that Mr. Bradley had previously pretended to be a corpse that had come to life.]
 
 :: Major Themes
+practical joking [Mr. Bradley was pulling childish pranks on people left, right and center.]
+coping with a problematic person [Everyone was fed up with the buffoonish practical joker Mr. Bradley.]
 
 :: Minor Themes
+music [In his monologue, Alfred Hitchcock made a mockery of Rock and Roll music.]
+the game of poker [Mr. Bradley and his fellow news reporter buddies were huddled around a small table playing a hand of poker.]
+gambling [Mr. Bradley grabbed the pile of cash due to him after winning a hand of poker with a straight.]
+journalism [Mr. Bradley was a newspaper reporter by trade.]
+law enforcement [A police captain came to investigate a report that a morgue-stored body was actually alive.]
+boyfriend and girlfriend [Mike punched out Mr. Bradley for having played a practical joke on Mike's girl, Millie.]
+crime of passion [Mike lost his temper and physically assaulted the insufferable practical joker Mr. Bradley after Mr. Bradley put pepper in the drink of Mike's girl, Millie.]
+breaking the law to cover up another crime [Mike and the bartender covered up what they presumed to be a case of manslaughter by dumping the seemingly dead body in a morgue freezer.]
 
 
 ahp4x04
