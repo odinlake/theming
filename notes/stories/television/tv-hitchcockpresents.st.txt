@@ -5172,6 +5172,7 @@ Directed by: Paul Henreid. Story by: Alex Gaby, William Fay.
 
 :: Ratings
 4 <mikael>
+3 <paul>
 
 :: Choice Themes
 abuse of authority [The Adams' were stopped and harassed by a rural police officer.]
@@ -5179,11 +5180,13 @@ corruption in society [Two New Yorkers on the road were stopped in a small town 
 
 :: Major Themes
 law enforcement [We saw some rural police officers and a judge.]
-husband and wife [Harry Addams and his wife.]
+husband and wife [The New Yorkers Harry Addams and his wife became embroiled in an extortion racket while passing through the sleepy rural community of Robertsville.]
 
 :: Minor Themes
-the legal professions [We saw some rural police officers and a judge.]
+society [] {For discussion: Was this the AHP monologue you had trouble identify a theme for? Also note AHP is constantly }
+the legal professions [A corrupt rural judge fined Harry .]
 dangerous driving in society [Harry was apprehended for driving at 57 MPH on a 50 MPH road.]
+urban character vs. rural character [For discussion: there were some urban-rural rivalry undertones to this story, like Officer Chandler asking "Are you trying to make up the rules for us countryfolks?"]
 
 
 ahp4x05
