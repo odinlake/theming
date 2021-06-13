@@ -5050,23 +5050,21 @@ Directed by: Alfred Hitchcock. Story by: Roald Dahl, Casey Robinson.
 5 <mikael>
 4 <paul>
 
+:: Related Stories
+talesoftheunexpected2x05
+
 :: Choice Themes
 human vs. venomous animal [Harry Pope had been stuck in bed for hours because there is a venomous snake on his stomach.]
-what if I couldn't move because of a poisonous animal [Harry Pope has been stuck in bed for hours because there is a venomous snake on his stomach.] {MO: perhaps we marked this for deletion in the singletons..? It's replaced in by "human vs. venomous animal".}
 
 :: Major Themes
 coping with a problematic person [One point of the story was that Harry was frustrated by having to rely on Timber who was variously flippant and dumb, and would not treat Harry's mortal peril with the gravitas it warranted.]
-friendship [Harry and Timber were supposedly friends but it turns out to be more complicated.] {MO: possibly false friend territory. PS: I didn't get if Harry was feeling vengeful over how lightly Timber treated the dire situation or what.}
+friendship [Harry and Timber were supposedly friends but it turns out to be more complicated.]
 false friend [Harry and Timber went through the motions of friendship but by the conclusion of the story we understand that neither would have terribly minded seeing the other dead. At any rate they derived much satisfaction from each other's distress.]
-the medical professions [Dr. Granderbay appeared to administer a snake serum, and to sedate the slithering reptile with chloroform.] {PS: Sounds minor from the comment.}
-remaining calm in the face of danger [] {For discussion about Timber not panicking about the situation}
+the medical professions [Dr. Granderbay appeared to administer a snake serum, and to sedate the slithering reptile with chloroform.]
 
 :: Minor Themes
 theft [In the intro, Alfred Hitchcock feigned to have a rattlesnake in his pocket to deter pickpockets.]
 alcohol abuse [We heard that Harry had turned to the bottle at some point.]
-
-:: Related Stories
-talesoftheunexpected2x05
 
 
 ahp4x02
@@ -5093,16 +5091,16 @@ Directed by: Robert Stevens. Story by: Sidney Carroll.
 3 <paul>
 
 :: Choice Themes
+keeping a promise when circumstances have changed [Johnny had to choose between keeping his promise, and speaking up about a man who was freezing to death outside.]
+what if I told the truth and nobody would believe me [Because of his habit of make belief, nobody would believe Johnny when he told about the freezing man outside the window.]
 
 :: Major Themes
 father and son [Larry Templeton and his unruly young son Johnny.]
 mother and son [Mary Templeton and her unruly young son Johnny.]
 husband and wife [Larry and Mary Templeton quarreled over how to best discipline their young son, Johnny.]
 dealing with children [The Templetons struggled to make their unruly son to behave aboard the train.]
-personal ethical dilemma [Johnny had to choose between keeping his promise, and speaking up about a man who was freezing to death outside.] {MO: maybe desire vs. conscience}
-keeping a promise when circumstances have changed [Johnny had to choose between keeping his promise, and speaking up about a man who was freezing to death outside.]
-man vs. nature [Mr. Kilmer related a story about the worst thing there was: Freezing in the cold. Underlining this story within the story, Johnny saw someone outside the window apparently freezing to death.]
-what if I told the truth and nobody would believe me [Because of his habit of make belief, nobody would believe Johnny when he told about the freezing man outside the window.]
+desire vs. conscience [Should Johnny pipe up and tell everyone that there was a man about to freeze to death outside or keep quiet and get the shiny silver dollar that'd been promised to him so long as he didn't interrupt Mr. Kilmer while he told his lengthy story?]
+man vs. nature [Mr. Kilmer related a story about the worst thing there was: Freezing in the cold. Underlining this story within the story. Johnny saw someone outside the window apparently freezing to death.]
 discipline of a child [Larry's rewarding Johnny for doing things he should be expected to do was contrasted with Mary's no-nonsense approach to disciplining the boy.]
 
 :: Minor Themes
@@ -5141,18 +5139,17 @@ practical joking [Mr. Bradley was pulling childish pranks on people left, right 
 coping with a problematic person [Everyone was fed up with the buffoonish practical joker Mr. Bradley.]
 
 :: Minor Themes
+celebrity worship [In his monologue, Alfred Hitchcock jested about how his supposed musician brother had perished as crazed fans "snipped" of first his hair, and then more of him.]
 music [In his monologue, Alfred Hitchcock made a mockery of Rock and Roll music.]
 the game of poker [Mr. Bradley and his fellow news reporter buddies were huddled around a small table playing a hand of poker.]
 gambling [Mr. Bradley grabbed the pile of cash due to him after winning a hand of poker with a straight.]
 journalism [Mr. Bradley was a newspaper reporter by trade.]
 law enforcement [A police captain came to investigate a report that a morgue-stored body was actually alive.]
-boyfriend and girlfriend [Mike punched out Mr. Bradley for having played a practical joke on Mike's girl, Millie.]
+boyfriend and girlfriend [Mike punched out Mr. Bradley for having played a practical joke on his girl, Millie.]
 crime of passion [Mike lost his temper and physically assaulted the insufferable practical joker Mr. Bradley after Mr. Bradley put pepper in the drink of Mike's girl, Millie.]
-breaking the law to cover up another crime [Mike and the bartender covered up what they presumed to be a case of manslaughter by dumping the seemingly dead body in a morgue freezer.]
-celebrity worship [AH jested about how his supposed musician brother had perished as crazed fans "snipped" of first his hair, and then more of him.]
 coping with a loved one being gravely ill [Pop spoke repeatedly about how his wife was ill and had had numerous operations.]
-murder [Mike thought he had killed Bradley.]
-nepotism [We herd a snide remark about how the police Captain was a second cousin to the Mayor. The Captain protested that he was in fact a first cousin.]
+murder [Mike thought he had killed Mr. Bradley.]
+nepotism [We herd a snide remark about how the police captain was a second cousin to the Mayor. The captain protested that he was in fact a first cousin.]
 
 
 ahp4x04
