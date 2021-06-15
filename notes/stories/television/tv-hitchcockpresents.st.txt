@@ -5238,7 +5238,7 @@ Design for Loving
 
 :: Description
 Charles Brailing (Lloyd) is tired of his wife, Lydia (Seldes), so he has a
-robot double of himself made by Marionettes, Inc. to take his place when he
+robot double of himself mad e by Marionettes, Inc. to take his place when he
 wants to get away. Charles' robot double develops feelings for Lydia and turns
 on Charles, taking his place permanently.
 
@@ -5246,19 +5246,21 @@ Directed by: Robert Stevens. Story by: Ray Bradbury.
 
 :: Ratings
 4 <mikael>
+3 <paul>
 
 :: Choice Themes
 android clone of a person [Charles had and android duplicate of himself made.]
 
 :: Major Themes
-husband and wife [Charles and Lydia; Tom and ??.]
+husband and wife [Charles ordered an android duplicate of himself to keep his wife, Lydia, occupied.; Tom and Anne Smith.]
 disintegrating romantic relationship [The story concerned the failing marriage between Charles and Lydia.]
-love triangle [Charles, Lydia, Charles's clone.]
+love triangle [Charles' android duplicate came between Charles and his wife Lydia.]
 what if someone around me changed [Tom and Lydia fond out that their respective partners were in fact robot clones of the genuine articles.]
+coping with a problematic person [Charles went to the length of ordering an android duplicate of himself in an effort to keep his needy wife occupied.]
 
 :: Minor Themes
-master and pet [AH feigned to speak about his oversized pet puppy named Fido.]
-stage magic [Lydia was playing around with a magician's seemingly solid metal rings.]
+master and pet [In his monologue, Alfred Hitchcock feigned to speak about his oversized pet puppy named Fido.]
+stage magic [Lydia was playing around with a set of Chinese linking rings - a classical illusion magic prop.]
 friendship [Charles went on a bender with his old friend Tom.]
 the game of chess [Charles's clone let Lydia win at chess.]
 
