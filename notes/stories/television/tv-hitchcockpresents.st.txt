@@ -5327,12 +5327,23 @@ refuse to arrest him.
 Directed by: Norman Lloyd. Story by: John De Meyer, William Fay.
 
 :: Ratings
+3 <mikael>
 
 :: Choice Themes
 
 :: Major Themes
+the gangster stereotype [We saw mobsters in suits mowing people down with tommy guns in the street.]
+law enforcement [A police officer interrogated Cyril regarding a gun Cyril had sold. (...)]
+obstruction of justice [The story centered on the problem of witnesses being fearful to come forwards for fear of being assassinated. In the story, the police were unable to adequately protect their witnesses.] {MO: might consider specializing this.}
+taking the law into one's own hands [Fearful of mobster retribution if he went to the police, Jones decided to summarily murder the gangsters that were after him.]
+murder [AH lamented that while duels had fallen out of fashion, murders were more popular than ever. Gangster tried to murder Jones. Jones murdered two gangsters and confessed.]
+police incompetency [] {prop FD: a social disorder theme?}
 
 :: Minor Themes
+what if I had to fight to the death [AH feigned to slay a man in a mock duel with pistols. He later found himself outnumbered in a lopsided standoff.]
+the instinct for violence [AH lamented that while duels had fallen out of fashion, murders were more popular than ever.]
+coping with being ill and indisposed [Jones had to spend some time in a hospital bed after he was shot by mobsters.] {FD: do we use it like this?}
+first strike tactic [Jones said he had to kill the mobsters before they killed him.]
 
 
 ahp4x09
