@@ -5288,24 +5288,31 @@ Directed by: Robert Stevens. Story by: Donald Martin, Joel Murcott.
 
 :: Ratings
 4 <mikael>
+4 <paul>
 
 :: Choice Themes
 suicide [Karen had committed suicide. Carl pretended to be about to. The entire story centered around this.]
+coping with an existential crisis [] {PS: When I reflect on what the story "Man with a Problem" is really about, I find myself here.}
 
 :: Major Themes
 coping with suicide [Carl was upset after his wife had committed suicide, and ostensibly seemed to be about to kill himself.]
 talking someone out of suicide [Steve tried to talk Carl out of jumping to his death.]
-extramarital affair [Karen and Steve behind the back of their spouses.]
+extramarital affair [Karen and Steve were carrying on behind the backs of their spouses.]
 law enforcement [Steve was a police officer.]
 the desire for vengeance [It transpires that the whole act was an elaborate ruse for Carl to avenge himself on Steve.]
-husband and wife [Carl and Karen.]
+husband and wife [Carl and Karen Adams.]
 unrequited love [Carl clearly loved Karen, but Karen had lost her feelings for Carl. It also became clear that Steve was not nearly as devoted to Karen as she was to Steve.]
 coping with romantic rejection [Carl was rejected by his wife, Karen. Karen committed suicide after she was rejected by her lover, Steve.]
+the hospitality industry [A hotel manager was exasperated about what a man making a spectacle of jumping to his death from a room window ledge would do for business.]
 
 :: Minor Themes
-obesity [AH jested about running a get-slim program for obese people.] {prop. FD}
+obesity [In his monologue, Alfred Hitchcock jested about running a get-slim program for obese people.] {prop. FD}
+undead skeleton [Alfred Hitchcock's monologue featured a man, one Mr. Webster, who'd been reduced to a skeleton from participating in Hitchcock's slim-and-trim weight loss class.]
 childish bullying [] {FD a bunch of children tried to coax Carl into jumping to his death.}
-murder [Carl's killing of Steve was highlighted as a crime by AH in the epilogue.]
+murder [Carl's killing of Steve was highlighted as a crime by Alfred Hitchcock in the epilogue.]
+divorce [Carl shot down Karen when she proposed they get a divorce. According to Karen, Steve was getting a divorce from his wife to be with her.]
+journalism [A couple of newspaper photographers were gleefully waiting for Carl to jump to his death from a hotel room window ledge.]
+the medical professions [A psychiatrist speculated that Carl's having been out on the window ledge for four hours was not a sign of indecision as might be imagine, and went on to voice his believe that he thought Carl had already made up his mind.]
 
 
 ahp4x08
